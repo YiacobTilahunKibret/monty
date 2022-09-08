@@ -1,4 +1,4 @@
-read first digit
+,				read first digit
 ----- -----		convert first digit to null byte
 ----- -----
 ----- -----
